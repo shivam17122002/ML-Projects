@@ -28,11 +28,6 @@ Send2Trash==1.8.2
 Sphinx==5.0.2
 Unidecode==1.2.0
 Werkzeug==2.2.3
-aext-assistant==0.4.0
-aext-assistant-server==0.4.0
-aext-core==0.4.0
-aext-core-server==0.4.0
-aext-shared==0.4.0
 aiobotocore==2.7.0
 aiofiles==22.1.0
 aiohttp==3.9.3
